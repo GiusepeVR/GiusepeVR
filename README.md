@@ -32,8 +32,8 @@ Currently growing in **modern web development** while keeping design principles 
   👉 Sole designer in a fast-paced startup, bridging design and development.  
 
 - **Agencia de Transformación Digital y Telecomunicaciones (ATDT)** — Frontend & UX/UI  
-  👉 Designed and prototyped interfaces in **Figma** and **HTML** for projects like **Llave MX, SAT, Beca Rita Cetina**.  
-  👉 Delivered a documented **Design System** to support scalable development.  
+  👉 Designed and prototyped interfaces in **Figma** and **HTML**.  
+  👉 Contributed to a growing **Design System** to support consistency across government websites.  
 
 ---
 
