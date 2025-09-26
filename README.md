@@ -38,11 +38,11 @@ Currently growing in **modern web development** while keeping design principles 
 ---
 
 ## 📚 Currently Learning  
-- **React ecosystem** (hooks, state management, component patterns)  
+- **TypeScript** for scalable and maintainable frontend apps  
 - **Agile workflows** & service design methodologies  
 - Building stronger **design-to-code bridges**  
 
 ---
 
 ## 📫 Connect with me  
-🌐 [LinkedIn](https://www.linkedin.com/in/giusepe-velazquez)  
+🌐 [[LinkedIn]() ](https://www.linkedin.com/in/giusepe-vr/) 
